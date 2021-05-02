@@ -2,6 +2,8 @@ Burger 0.8.16
 =================
 Hamburger menu.
 
+<p align="center"><img src="burger-screenshot.png?raw=true" width="795" height="836" alt="Screenshot"></p>
+
 ## How to add a hambuger menu
 
 The hambuger menu is created by the layout `system/layout/burger.html`. In order to use it you can do either of the following:
