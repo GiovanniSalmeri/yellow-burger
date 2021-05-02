@@ -52,7 +52,7 @@ Layout: transit
 
 ## Installation
 
-[Download extension](https://github.com/GiovanniSalmeri/yellow-burger/master.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+[Download extension](https://github.com/GiovanniSalmeri/yellow-burger/archive/master.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
 ## Developer
 
