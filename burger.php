@@ -8,7 +8,6 @@ class YellowBurger {
     // Handle initialisation
     public function onLoad($yellow) {
         $this->yellow = $yellow;
-        //$this->yellow->system->setDefault("BurgerBlabla", "Hello World");
     }
     
     // Handle page extra data
