@@ -1,0 +1,22 @@
+# Burger extension, https://github.com/GiovanniSalmeri/yellow-burger
+
+Language: en
+BurgerMenu: Menu
+
+Language: it
+BurgerMenu: Menù
+
+Language: es
+BurgerMenu: Menú
+
+Language: fr
+BurgerMenu: Menu
+
+Language: pt
+BurgerMenu: Menu
+
+Language: de
+BurgerMenu: Menü
+
+Language: nl
+BurgerMenu: Menu

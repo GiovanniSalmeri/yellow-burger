@@ -1,0 +1,24 @@
+/* Burger extension, https://github.com/GiovanniSalmeri/yellow-burger */
+
+a#navigation-menu {
+    float: right;
+}
+nav { 
+    display: none;
+}
+
+/* Tweaks to mmenu-light.css */
+
+.mm-spn.mm-spn--light a:hover {
+    text-decoration: none;
+    color: #000;
+    background-color: #ddd;
+}
+.mm-spn.mm-spn--dark a:hover {
+    text-decoration: none;
+    color: #ddd;
+    background-color: #444
+}
+:root {
+    --mm-spn-item-height: 35px !important; /* reduce height of menu items */
+}

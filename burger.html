@@ -1,0 +1,24 @@
+<?php list($name, $pages, $level) = $this->yellow->getLayoutArguments() ?>
+<?php if (!$pages) $pages = $this->yellow->content->top() ?>
+<?php $this->yellow->page->setLastModified($pages->getModified()) ?>
+<?php if (!$level): ?>
+<?php $extensionLocation =  $this->yellow->system->get("coreServerBase").$this->yellow->system->get("coreExtensionLocation"); ?>
+<a id="navigation-menu" href=""><img src="<?php echo $extensionLocation.'burger.svg'; ?>" alt="<?php echo $this->yellow->language->getTextHtml("burgerMenu") ?>"></a>
+<nav id="navigation-tree" data-sitename="<?php echo $this->yellow->system->getHtml('sitename') ?>">
+<?php endif ?>
+<ul>
+<?php foreach ($pages as $page): ?>
+<?php $children = $page->getChildren() ?>
+<li>
+<?php if ($page->get("layout") == "transit"): ?>
+<span><?php echo $page->getHtml("titleNavigation") ?></span>
+<?php else: ?>
+<a<?php echo $page->isActive() ? " class=\"active\" aria-current=\"page\"" : "" ?> href="<?php echo $page->getLocation(true) ?>"><?php echo $page->getHtml("titleNavigation") ?></a>
+<?php endif ?>
+<?php if ($children->count()) { echo "\n"; $this->yellow->layout($name, $children, $level+1); } ?></li>
+<?php endforeach ?>
+</ul>
+<?php if (!$level): ?>
+</nav>
+<div class="navigation-banner"></div>
+<?php endif ?>
