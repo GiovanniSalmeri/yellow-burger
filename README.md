@@ -8,8 +8,8 @@ Hamburger menu.
 
 The hambuger menu is created by the layout `system/layouts/burger.html`. In order to use it you can do either of the following:
 
-1. Rename it to `system/layout/navigation.html`
-2. In `system/layout/header.html` change `$this->yellow->layout("navigation")` to `$this->yellow->layout("burger")`
+1. Rename it to `system/layouts/navigation.html`
+2. In `system/layouts/header.html` change `$this->yellow->layout("navigation")` to `$this->yellow->layout("burger")`
 
 ## How to make transit pages
 
