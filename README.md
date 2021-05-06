@@ -6,7 +6,7 @@ Hamburger menu.
 
 ## How to add a hambuger menu
 
-The hambuger menu is created by the layout `system/layout/burger.html`. In order to use it you can do either of the following:
+The hambuger menu is created by the layout `system/layouts/burger.html`. In order to use it you can do either of the following:
 
 1. Rename it to `system/layout/navigation.html`
 2. In `system/layout/header.html` change `$this->yellow->layout("navigation")` to `$this->yellow->layout("burger")`
@@ -55,6 +55,8 @@ Layout: transit
 ## Installation
 
 [Download extension](https://github.com/GiovanniSalmeri/yellow-burger/archive/master.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+
+This extension uses [mmenu-light](https://github.com/FrDH/mmenu-light) by Fred Heusschen, licensed under the [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/) license.
 
 ## Developer
 
