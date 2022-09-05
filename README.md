@@ -2,7 +2,7 @@ Burger 0.8.16
 =================
 Hamburger menu.
 
-<p align="center"><img src="burger-screenshot.png?raw=true" width="795" height="836" alt="Screenshot"></p>
+<p align="center"><img src="burger-screenshot.png?raw=true" alt="Screenshot"></p>
 
 ## How to show a hambuger menu
 
