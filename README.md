@@ -54,7 +54,7 @@ Layout: transit
 
 ## Installation
 
-[Download extension](https://github.com/GiovanniSalmeri/yellow-burger/archive/master.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
+[Download extension](https://github.com/GiovanniSalmeri/yellow-burger/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
 
 This extension uses [mmenu-light](https://github.com/FrDH/mmenu-light) by Fred Heusschen, licensed under the [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/) license.
 
