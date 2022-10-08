@@ -60,4 +60,4 @@ This extension uses [mmenu-light](https://github.com/FrDH/mmenu-light) by Fred H
 
 ## Developer
 
-Giovanni Salmeri. [Get help](https://github.com/GiovanniSalmeri/yellow-burger/issues).
+Giovanni Salmeri. [Get help](https://datenstrom.se/yellow/help/)
