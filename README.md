@@ -4,6 +4,10 @@ Hamburger menu.
 
 <p align="center"><img src="burger-screenshot.png?raw=true" alt="Screenshot"></p>
 
+## How to install an extension
+
+[Download ZIP file](https://github.com/GiovanniSalmeri/yellow-burger/archive/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+
 ## How to show a hambuger menu
 
 The hambuger menu is created by the layout `system/layouts/burger.html`. In order to use it you can do either of the following:
@@ -52,12 +56,10 @@ Layout: transit
 ---
 ```
 
-## Installation
+## Acknowledgements
 
-[Download extension](https://github.com/GiovanniSalmeri/yellow-burger/archive/main.zip) and copy zip file into your `system/extensions` folder. Right click if you use Safari.
-
-This extension uses [mmenu-light](https://github.com/FrDH/mmenu-light) by Fred Heusschen, licensed under the [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/) license.
+This extension uses [mmenu-light](https://github.com/FrDH/mmenu-light) by Fred Heusschen, licensed under the [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/) license. Thank you for the good work.
 
 ## Developer
 
-Giovanni Salmeri. [Get help](https://datenstrom.se/yellow/help/)
+Giovanni Salmeri. [Get help](https://datenstrom.se/yellow/help/).
