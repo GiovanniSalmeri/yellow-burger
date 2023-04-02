@@ -8,6 +8,22 @@ class YellowBurger {
     // Handle initialisation
     public function onLoad($yellow) {
         $this->yellow = $yellow;
+        $this->yellow->language->setDefaults([
+            "Language: en",
+            "BurgerMenu: Menu",
+            "Language: it",
+            "BurgerMenu: Menù",
+            "Language: es",
+            "BurgerMenu: Menú",
+            "Language: fr",
+            "BurgerMenu: Menu",
+            "Language: pt",
+            "BurgerMenu: Menu",
+            "Language: de",
+            "BurgerMenu: Menü",
+            "Language: nl",
+            "BurgerMenu: Menu",
+        ]);
     }
     
     // Handle page extra data
