@@ -17,7 +17,7 @@ The hambuger menu is created by the layout `system/layouts/burger.html`. In orde
 
 ## How to make transit pages
 
-If a page contains subpages (e.g. `/page/subpage1/`, `/page/subpage2/` etc.), it is a good idea not to put any relevant content in it and to make it not accessible in menu, since it is often overlooked by users. To make such a ‘transit’ page, put at its top the `Layout: transit` setting. It will be automatically populated with a list of its subpages and it will not be accessible in the menu.
+If a page contains subpages (e.g. `/page/subpage1/`, `/page/subpage2/` etc.), it is a good idea not to put any relevant content in it and to make it not selectable in menu, since it is often overlooked by users. To make such a "transit" page, put at its top the `Layout: transit` setting.
 
 ## Examples
 
