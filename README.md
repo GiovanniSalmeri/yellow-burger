@@ -2,11 +2,11 @@ Burger 0.8.16
 =================
 Hamburger menu.
 
-<p align="center"><img src="burger-screenshot.png?raw=true" alt="Screenshot"></p>
+<p align="SCREENSHOT.png?raw=true" alt="Screenshot"></p>
 
 ## How to install an extension
 
-[Download ZIP file](https://github.com/GiovanniSalmeri/yellow-burger/archive/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+[Download ZIP file](https://github.com/GiovanniSalmeri/yellow-burger/archive/refs/heads/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 ## How to show a hambuger menu
 
