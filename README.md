@@ -1,5 +1,5 @@
-Burger 0.8.16
-=================
+# Burger 0.9.1
+
 Hamburger menu.
 
 <p align="center"><img src="SCREENSHOT.png" alt="Screenshot"></p>
