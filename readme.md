@@ -1,8 +1,8 @@
-# Burger 0.9.1
+# Burger 1.0.0
 
-Hamburger menu.
+Hamburger menu. Developed by Giovanni Salmeri.
 
-<p align="center"><img src="SCREENSHOT.png" alt="Screenshot"></p>
+<p align="center"><img src="screenshot.png" alt="Screenshot"></p>
 
 ## How to install an extension
 
@@ -58,8 +58,6 @@ Layout: transit
 
 ## Acknowledgements
 
-This extension uses [mmenu-light](https://github.com/FrDH/mmenu-light) by Fred Heusschen, licensed under the [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/) license. Thank you for the good work.
+This extension includes [mmenu-light](https://github.com/FrDH/mmenu-light) by Fred Heusschen, licensed under the [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/) license. Thank you for the useful library.
 
-## Developer
-
-Giovanni Salmeri. [Get help](https://datenstrom.se/yellow/help/).
+Do you have questions? [Get help](https://datenstrom.se/yellow/help/).
